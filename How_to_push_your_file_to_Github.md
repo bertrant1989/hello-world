@@ -6,3 +6,5 @@ The first thing to do is to write up my own file, on sublime text or Matlab or L
 5. Type "git status" to make sure everything has been up-to-date and you are ready to push the files you have changed to Github
 6. Type " git commit -m "added ****.***" " by meaning that you just send a message to Github that you have add the file you wanted.
 7. Refresh your index page on Github and you suppose to see the uploaded file.
+8. Type "git" will show you all commands.
+9. If you accidentally typed "git commit" without "-m" after it, something wierd will pop up, use "esc" and type ":wq" to exit without saving any changes. You have to save the changes agian.
